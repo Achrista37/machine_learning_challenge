@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # javascript-challenge
 
 Background
@@ -58,6 +59,8 @@ state
 country
 shape
 =======
+=======
+>>>>>>> main
 # machine_learning_challenge
 
 Instructions
@@ -150,4 +153,7 @@ Also, with encoding as following: 1 - confirmed, 2 - false positive, 0-candidate
 Prediction for the first 22 : [1, 2, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 0, 0, 1, 2, 2, 1, 0, 2, 1]
 While the real values for the first 22 : [1, 2, 2, 1, 2, 2, 2, 1, 0, 2, 1, 2, 2, 0, 0, 1, 2, 2, 1, 0, 2, 0]
 There are missed predictions, but of small number. This is consistent with the model’s score
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
